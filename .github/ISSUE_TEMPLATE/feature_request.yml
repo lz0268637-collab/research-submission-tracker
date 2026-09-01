@@ -1,0 +1,25 @@
+name: 功能建议
+description: 提议新的科研或投稿管理功能
+title: "[建议] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 您遇到的问题
+      description: 请描述现在的工作方式和最不方便的地方。
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 希望如何改进
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: 使用频率
+      options: [每天, 每周, 每月, 偶尔]
+    validations:
+      required: true
