@@ -21,7 +21,7 @@
 请前往 [Releases](../../releases/latest) 下载最新的 Windows 安装程序：
 
 ```text
-论文投稿管理系统-Setup-版本号.exe
+ResearchSubmissionTracker-Setup-版本号.exe
 ```
 
 双击安装并保留“创建桌面快捷方式”选项。安装完成后，从桌面打开“论文投稿管理系统”，浏览器会自动进入本地页面。
